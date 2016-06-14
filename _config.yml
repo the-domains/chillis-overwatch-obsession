@@ -1,17 +1,17 @@
-typography_spectrum: 0.04840038460679352
+typography_spectrum: 0.730858561815694
 content_rating:
   adult: true
 color:
-  brandStrength: 0.5455402694642544
-  lightness: 0.9593641858082265
-  saturation: 0.2411357017699629
-  rhythmicContrast: 0.9215598625596613
+  brandStrength: 0.28718055598437786
+  lightness: 0.883569712517783
+  saturation: 0.6690544728189707
+  rhythmicContrast: 0.2528688828460872
   brandColors:
-    - '#595241'
-    - '#B8AE9C'
-    - '#FFFFFF'
-    - '#ACCFCC'
-    - '#8A0917'
+    - '#F6F792'
+    - '#333745'
+    - '#77C4D3'
+    - '#DAEDE2'
+    - '#EA2E49'
 layout_spectrum: 0.5554078014101833
 author:
   name: '@ellellesays'
