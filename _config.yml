@@ -1,5 +1,6 @@
-layout_spectrum: 0.5554078014101833
 typography_spectrum: 0.04840038460679352
+content_rating:
+  adult: true
 color:
   brandStrength: 0.5455402694642544
   lightness: 0.9593641858082265
@@ -11,5 +12,8 @@ color:
     - '#FFFFFF'
     - '#ACCFCC'
     - '#8A0917'
+layout_spectrum: 0.5554078014101833
+author:
+  name: '@ellellesays'
 name: Chilli's Overwatch Obsession
 title: '@ellellesays'
