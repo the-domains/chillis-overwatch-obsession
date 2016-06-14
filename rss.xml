@@ -4,7 +4,7 @@
         <description><![CDATA[@ellellesays]]></description>
         <link>https://thegrid.ai/chillis-overwatch-obsession/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 06:51:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2016 06:51:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chillis-overwatch-obsession/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,6 +26,13 @@
             <link>https://twitter.com/OverwatchFeed/status/742491752221839361</link>
             <guid isPermaLink="false">97aa21d0-cdb0-4c07-8cc7-b31412cf37b3</guid>
             <pubDate>Tue, 14 Jun 2016 06:51:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chillivata * Forge]]></title>
+            <description><![CDATA[<article><h1>Chillivata * Forge</h1><p>View Chillivata's top gaming highlights on Forge.</p><img src="https://s3-us-west-1.amazonaws.com/us-west.s3.forge.gg/avatars/15849-cb0af6cba01ae4c3441ea7a982628a06.png"></article>]]></description>
+            <link>https://forge.gg/Chillivata</link>
+            <guid isPermaLink="false">3fa4bac8-ed5d-4d81-94b8-94c00e8e39a5</guid>
+            <pubDate>Tue, 14 Jun 2016 06:50:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
